@@ -1,0 +1,5 @@
+{
+  "name": "Prisma - Compilador Python Seguro",
+  "description": "Un IDE de Python seguro diseñado para el aprendizaje, creado por el Profesor Daniel Riaño. Incluye medidas anti-copia y ejecutor WebAssembly.",
+  "requestFramePermissions": []
+}
